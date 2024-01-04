@@ -31,19 +31,19 @@ body {
   opacity: 0.8;
 }
 
-.red {
+.yellow {
   background-color: #fff3b0;
 }
 
-.green {
+.blue {
   background-color: #457b9d;
 }
 
-.blue {
+.green {
   background-color: #a7c957;
 }
 
-.yellow {
+.red {
   background-color: #e63946;
 }
 
